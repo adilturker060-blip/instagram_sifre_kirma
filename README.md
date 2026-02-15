@@ -1,12 +1,12 @@
 Kullanım Komutları
-=
+=Zelih.a2961 
 
-```python
+```python Zelih.a2961 
 	python instaBrute.py -f usernames.txt -d dictionary.txt
-```
+```Zelih.a2961 
 ```python
 	python instaBrute.py -u facebook -d dictionary.txt
-```
+```Zelih.a2961 
 
 Kullanım Videosu
 =
